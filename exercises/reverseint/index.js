@@ -8,6 +8,9 @@
 //   reverseInt(-15) === -51
 //   reverseInt(-90) === -9
 
+// my original version....didn't know about Math.sign and explictly
+// handled the sign
+
 // function reverseInt(n) {
 
 //     let sign = 1;
