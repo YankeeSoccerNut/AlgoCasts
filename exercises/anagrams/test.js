@@ -9,7 +9,7 @@ test('"hello" is an anagram of "llohe"', () => {
 });
 
 test('"Whoa! Hi!" is an anagram of "Hi! Whoa!"', () => {
-  expect(anagrams('Whoa! Hi!', 'Hi! Whoa!')).toBeTruthy();
+  expect(anagrams('Whoa! Hi!!!!', 'Hi! Whoa!')).toBeTruthy();
 });
 
 test('"One One" is not an anagram of "Two two two"', () => {
